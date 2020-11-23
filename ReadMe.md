@@ -1,4 +1,4 @@
-# Spring StateMachine(1) 二级审批流程
+# Spring StateMachine 二级审批流程
 
 以一个简单的二级审批流程（请假）为例，研究一下 StateMachine 的使用。该流程设计如下：
 

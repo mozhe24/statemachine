@@ -2,25 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ad543ce6-d962-4df2-ba67-c0c09e46bebf" name="Default Changelist" comment="StateMachine Demo">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/model.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mvnw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mvnw.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/statemachine/BaseResponse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/statemachine/Events.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/statemachine/LeaveRequest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/statemachine/LeaveStateMachinePersist.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/statemachine/StateMachineConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/statemachine/StateMachineController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/statemachine/StateMachineEventListener.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/statemachine/States.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/statemachine/WebApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/tl_approve.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/example/statemachine/StatemachineApplicationTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -75,7 +57,7 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -129,7 +111,7 @@
       <workItem from="1606099731277" duration="316000" />
       <workItem from="1606100288044" duration="15000" />
       <workItem from="1606100346652" duration="229000" />
-      <workItem from="1606100707519" duration="8649000" />
+      <workItem from="1606100707519" duration="9366000" />
     </task>
     <servers />
   </component>
